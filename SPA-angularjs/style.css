@@ -1,0 +1,26 @@
+.chart-wrap{
+  height:200px;
+  position: relative;
+  margin-left:5em;
+}
+
+.chart{
+  position: absolute;
+  bottom:0;
+  padding:0;
+  margin:0;
+}
+
+.chart .bar{
+  position: absolute;
+  display: inline-block;
+  background-color:red;
+  width:15px;
+  margin: 0 5px;
+  bottom:0;
+}
+
+.color{
+    color: red;
+}
+
